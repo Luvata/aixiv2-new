@@ -172,9 +172,13 @@ title: Hello
 
 [2306.00738 ReFACT  Updating Text-to-Image Models by Editing the Text Encoder](2306.00738.md)
 
+[2305.19327 Cones 2  Customizable Image Synthesis with Multiple Subjects](2305.19327.md)
+
 [2305.16807 Negative-prompt Inversion  Fast Image Inversion for Editing with Text-guided Diffusion Models](2305.16807.md)
 
 [2305.13873 Unsafe Diffusion  On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models](2305.13873.md)
+
+[2305.11846 Any-to-Any Generation via Composable Diffusion](2305.11846.md)
 
 [2305.10665 Content-based Unrestricted Adversarial Attack](2305.10665.md)
 
@@ -189,6 +193,8 @@ title: Hello
 [2303.08084 Editing Implicit Assumptions in Text-to-Image Diffusion Models](2303.08084.md)
 
 [2302.06588 Raising the Cost of Malicious AI-Powered Image Editing](2302.06588.md)
+
+[2302.03027 Zero-shot Image-to-Image Translation](2302.03027.md)
 
 [2211.09794 Null-text Inversion for Editing Real Images using Guided Diffusion Models](2211.09794.md)
 
