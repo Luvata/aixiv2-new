@@ -4,6 +4,8 @@ title: Hello
 
 # Hello
 
+[2308.14761 Unified Concept Editing in Diffusion Models](2308.14761.md)
+
 [2308.10916 Diffusion Model as Representation Learner](2308.10916.md)
 
 [2308.10718 Backdooring Textual Inversion for Concept Censorship](2308.10718.md)
@@ -158,13 +160,19 @@ title: Hello
 
 [2306.14435 DragDiffusion  Harnessing Diffusion Models for Interactive Point-based Image Editing](2306.14435.md)
 
+[2306.09344 DreamSim  Learning New Dimensions of Human Visual Similarity using Synthetic Data](2306.09344.md)
+
 [2306.08877 Linguistic Binding in Diffusion Models  Enhancing Attribute Correspondence through Attention Map Alignment](2306.08877.md)
 
 [2306.07754 Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis](2306.07754.md)
 
+[2306.05414 Improving Tuning-Free Real Image Editing with Proximal Guidance](2306.05414.md)
+
 [2306.00974 Intriguing Properties of Text-guided Diffusion Models](2306.00974.md)
 
 [2306.00738 ReFACT  Updating Text-to-Image Models by Editing the Text Encoder](2306.00738.md)
+
+[2305.16807 Negative-prompt Inversion  Fast Image Inversion for Editing with Text-guided Diffusion Models](2305.16807.md)
 
 [2305.13873 Unsafe Diffusion  On the Generation of Unsafe Images and Hateful Memes From Text-To-Image Models](2305.13873.md)
 
@@ -185,6 +193,8 @@ title: Hello
 [2211.09794 Null-text Inversion for Editing Real Images using Guided Diffusion Models](2211.09794.md)
 
 [2211.06679 AltCLIP  Altering the Language Encoder in CLIP for Extended Language Capabilities](2211.06679.md)
+
+[2209.14988 DreamFusion  Text-to-3D using 2D Diffusion](2209.14988.md)
 
 [2010.02502 Denoising Diffusion Implicit Models](2010.02502.md)
 
