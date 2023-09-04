@@ -8,6 +8,8 @@ title: Hello
 
 [2308.16582 Any-Size-Diffusion  Toward Efficient Text-Driven Synthesis for Any-Size HD Images](2308.16582.md)
 
+[2308.16512 MVDream  Multi-view Diffusion for 3D Generation](2308.16512.md)
+
 [2308.14761 Unified Concept Editing in Diffusion Models](2308.14761.md)
 
 [2308.10916 Diffusion Model as Representation Learner](2308.10916.md)
@@ -201,6 +203,8 @@ title: Hello
 [2302.06588 Raising the Cost of Malicious AI-Powered Image Editing](2302.06588.md)
 
 [2302.03027 Zero-shot Image-to-Image Translation](2302.03027.md)
+
+[2211.17256 CLIPascene  Scene Sketching with Different Types and Levels of Abstraction](2211.17256.md)
 
 [2211.09794 Null-text Inversion for Editing Real Images using Guided Diffusion Models](2211.09794.md)
 
