@@ -4,6 +4,10 @@ title: Hello
 
 # Hello
 
+[2309.00013 Model Inversion Attack via Dynamic Memory Learning](2309.00013.md)
+
+[2308.16582 Any-Size-Diffusion  Toward Efficient Text-Driven Synthesis for Any-Size HD Images](2308.16582.md)
+
 [2308.14761 Unified Concept Editing in Diffusion Models](2308.14761.md)
 
 [2308.10916 Diffusion Model as Representation Learner](2308.10916.md)
@@ -15,6 +19,8 @@ title: Hello
 [2308.09889 DUAW  Data-free Universal Adversarial Watermark against Stable Diffusion Customization](2308.09889.md)
 
 [2308.09124 Linearity of Relation Decoding in Transformer Language Models](2308.09124.md)
+
+[2308.08947 Watch Your Steps  Local Image and Scene Editing by Text Instructions](2308.08947.md)
 
 [2308.08428 ALIP  Adaptive Language-Image Pre-training with Synthetic Caption](2308.08428.md)
 
