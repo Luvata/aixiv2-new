@@ -4,6 +4,8 @@ title: Hello
 
 # Hello
 
+[2309.00613 Iterative Multi-granular Image Editing using Diffusion Models](2309.00613.md)
+
 [2309.00013 Model Inversion Attack via Dynamic Memory Learning](2309.00013.md)
 
 [2308.16582 Any-Size-Diffusion  Toward Efficient Text-Driven Synthesis for Any-Size HD Images](2308.16582.md)
@@ -178,6 +180,8 @@ title: Hello
 
 [2306.00974 Intriguing Properties of Text-guided Diffusion Models](2306.00974.md)
 
+[2306.00966 The Hidden Language of Diffusion Models](2306.00966.md)
+
 [2306.00738 ReFACT  Updating Text-to-Image Models by Editing the Text Encoder](2306.00738.md)
 
 [2305.19327 Cones 2  Customizable Image Synthesis with Multiple Subjects](2305.19327.md)
@@ -193,6 +197,8 @@ title: Hello
 [2305.08192 Diffusion Models for Imperceptible and Transferable Adversarial Attack](2305.08192.md)
 
 [2305.05189 SUR-adapter  Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models](2305.05189.md)
+
+[2305.01644 Key-Locked Rank One Editing for Text-to-Image Personalization](2305.01644.md)
 
 [2304.03411 InstantBooth  Personalized Text-to-Image Generation without Test-Time Finetuning](2304.03411.md)
 
