@@ -4,6 +4,14 @@ title: Hello
 
 # Hello
 
+[2309.07986 Viewpoint Textual Inversion  Unleashing Novel View Synthesis with Pretrained 2D Diffusion Models](2309.07986.md)
+
+[2309.07906 Generative Image Dynamics](2309.07906.md)
+
+[2309.07125 Text-Guided Generation and Editing of Compositional 3D Avatars](2309.07125.md)
+
+[2309.06933 DreamStyler  Paint by Style Inversion with Text-to-Image Diffusion Models](2309.06933.md)
+
 [2309.00613 Iterative Multi-granular Image Editing using Diffusion Models](2309.00613.md)
 
 [2309.00013 Model Inversion Attack via Dynamic Memory Learning](2309.00013.md)
