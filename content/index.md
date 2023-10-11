@@ -4,6 +4,10 @@ title: Hello
 
 # Hello
 
+[2310.05916 Interpreting CLIP's Image Representation via Text-Based Decomposition](2310.05916.md)
+
+[2309.16668 RealFill  Reference-Driven Generation for Authentic Image Completion](2309.16668.md)
+
 [2309.07986 Viewpoint Textual Inversion  Unleashing Novel View Synthesis with Pretrained 2D Diffusion Models](2309.07986.md)
 
 [2309.07906 Generative Image Dynamics](2309.07906.md)
@@ -184,6 +188,8 @@ title: Hello
 
 [2306.07754 Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis](2306.07754.md)
 
+[2306.07282 Waffling around for Performance  Visual Classification with Random Words and Broad Concepts](2306.07282.md)
+
 [2306.05414 Improving Tuning-Free Real Image Editing with Proximal Guidance](2306.05414.md)
 
 [2306.00974 Intriguing Properties of Text-guided Diffusion Models](2306.00974.md)
@@ -207,6 +213,8 @@ title: Hello
 [2305.05189 SUR-adapter  Enhancing Text-to-Image Pre-trained Diffusion Models with Large Language Models](2305.05189.md)
 
 [2305.01644 Key-Locked Rank One Editing for Text-to-Image Personalization](2305.01644.md)
+
+[2304.14530 Generating images of rare concepts using pre-trained diffusion models](2304.14530.md)
 
 [2304.03411 InstantBooth  Personalized Text-to-Image Generation without Test-Time Finetuning](2304.03411.md)
 
